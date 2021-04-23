@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Exploration de la librairie Three.js",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three-orbitcontrols-ts": "^0.1.2"
+  },
+  "devDependencies": {
+    "three": "^0.125.2"
+  }
+}
